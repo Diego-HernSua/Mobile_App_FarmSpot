@@ -1,6 +1,6 @@
 # 🌾 Mobile App: FarmSpot
 
-Farmspot is a mobile application designed to connect farmers directly with customers, bypassing intermediaries. This helps farmers earn more and allows customers to obtain higher-quality products. The app is developed using Kotlin, Java, XML, among other technologies.
+Farmspot is a mobile application designed to connect farmers directly with customers, bypassing intermediaries. This helps farmers earn more and allows customers to obtain higher-quality products. The app is developed using Android Studio, where we used programming languages such as Kotlin, Java, XML, among other technologies.
 
 ---
 
